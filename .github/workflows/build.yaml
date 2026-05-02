@@ -5,7 +5,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: vitasdk
+  IMAGE_NAME: hugespaceship/vitasdk
 
 jobs:
   build:
